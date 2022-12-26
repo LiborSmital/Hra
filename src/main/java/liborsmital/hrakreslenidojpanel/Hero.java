@@ -28,6 +28,7 @@ public class Hero {
     private final float GRAVITACE = 0.2f;
     private final float MAX_HOR_RYCHOST = 1.8f;
     private final float MAX_SKOK_RYCHOST = 5.5f;
+    
     private float horRychlost;
     private float vertRychlost;
     private Dimension velikostOkna;
