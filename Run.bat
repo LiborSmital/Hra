@@ -1,0 +1,1 @@
+java -cp .\HraKresleniDoJPanel-1.0-SNAPSHOT.jar liborsmital.hrakreslenidojpanel.HraKresleniDoJPanel
